@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csv", "csv\csv.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "state_machine", "state_machine\state_machine.vcxproj", "{EEBE82F9-8B89-4532-94AE-3DF65FB563A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitmap", "bitmap\bitmap.vcxproj", "{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{EEBE82F9-8B89-4532-94AE-3DF65FB563A3}.Release|x64.Build.0 = Release|x64
 		{EEBE82F9-8B89-4532-94AE-3DF65FB563A3}.Release|x86.ActiveCfg = Release|Win32
 		{EEBE82F9-8B89-4532-94AE-3DF65FB563A3}.Release|x86.Build.0 = Release|Win32
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Debug|x64.ActiveCfg = Debug|x64
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Debug|x64.Build.0 = Debug|x64
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Debug|x86.Build.0 = Debug|Win32
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Release|x64.ActiveCfg = Release|x64
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Release|x64.Build.0 = Release|x64
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Release|x86.ActiveCfg = Release|Win32
+		{CED413EA-67AB-4218-BEAD-F76DF87A7DC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
